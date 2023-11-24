@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "654395225254",
+    "project_id": "firebare-flutter-remote-config",
+    "storage_bucket": "firebare-flutter-remote-config.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654395225254:android:b1257fea2186543480b067",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_remote_config"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKm9UrMcllx6NQmnZS12dhSRkgxX_zdDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
